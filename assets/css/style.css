@@ -1,0 +1,21 @@
+.div200 {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+#div1 {
+    background-color: rgb(198, 198, 252);
+}
+
+#div2 {
+    background-color: rgb(255, 165, 165);
+}
+
+#div3 {
+    background-color: rgb(255, 255, 185);
+}
+
+#div4 {
+    background-color: rgb(203, 255, 203);
+}
